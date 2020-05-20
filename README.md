@@ -1,4 +1,4 @@
-# Online-Pharmacy
+# Online-Pharma
 
 
 The Online Pharma website should allow the users to create a new account (if a new user) else allow them to login into their account. Once logged in, the user can add the medicines he/she needs to the cart. 
