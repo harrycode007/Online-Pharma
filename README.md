@@ -6,7 +6,7 @@ The Online Pharma website should allow the users to create a new account (if a n
 A new user should first sign up and create a new account in order to be able to purchase medicines. 
      o ​ ​Once the account has been created he/she can login and follow the below procedure.
       
-Upon clicking on login button or any button that requires the customer to be logged-in 
+Upon clicking on login button or any button that requires the customer to be logged-in <br />
      1)    Open the login/register page <br />
      2)    Enable logging-in [user-id, password]. <br />
      3)    Upon successful login, the user can navigate to the page having the list of medicines that can be purchased. <br />
